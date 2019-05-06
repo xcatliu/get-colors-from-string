@@ -1,5 +1,8 @@
 # Get colors from string
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/get-colors-from-string.svg)](https://greenkeeper.io/)
+
+
 Get colors from string, supported color styles:
 
 - Regular HEX color: `#000`, `#f2f2f2`
